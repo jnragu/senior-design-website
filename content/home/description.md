@@ -8,6 +8,9 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 design:
   columns: '2'
+advanced:
+  css_style:
+  css_class:
 ---
 
 {{< figure src="desc.svg>}}
